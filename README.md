@@ -1,5 +1,5 @@
 # Building a Network Graph using Microsoft Power BI
-This project builds a Network Graph for the sample sales data from the Microsoft AdventureWorks sample database.
+This project builds a Network Graph to visualize the sample sales data from the Microsoft AdventureWorks sample database.
 
 # Goals
 The goal of this project is to answer some of the most commonly asked questions by executives on the sales data, such as:
@@ -8,6 +8,8 @@ The goal of this project is to answer some of the most commonly asked questions 
 * How many products are sold or how much are products sold for?
 * Are there any correlation between product and customer geographical locations?
 * For a brand new product, where should it be marketed and sold to?
+
+For a detailed discussion on the visualization, please see my recent article: https://medium.com/@ss.shawnshi/data-science-building-a-network-graph-in-power-bi-using-sql-server-a1b4c9b7610a
 
 # Getting Started 
 
