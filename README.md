@@ -9,7 +9,7 @@ The goal of this project is to answer some of the most commonly asked questions 
 * Are there any correlation between product and customer geographical locations?
 * For a brand new product, where should it be marketed and sold to?
 
-For a detailed discussion on the visualization, please see my recent article: https://medium.com/@ss.shawnshi/data-science-building-a-network-graph-in-power-bi-using-sql-server-a1b4c9b7610a
+**For a detailed discussion on the visualization, please see my recent article, Data Science — Building a Network Graph in Power BI using SQL Server** (link: https://medium.com/@ss.shawnshi/data-science-building-a-network-graph-in-power-bi-using-sql-server-a1b4c9b7610a)
 
 # Getting Started 
 
