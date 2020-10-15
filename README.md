@@ -20,3 +20,6 @@ Prerequisites
 * Microsoft sample database "AdventureWorksLT2016"
 
 You should be able to clone the repo and open the AdventureWorks.pbix workbook.
+
+# Network Graph Sample Screenshot
+![alt text](https://miro.medium.com/max/3146/1*kavW59UHx7EnbZhlTdVpSQ.jpeg)
