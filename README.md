@@ -1,4 +1,4 @@
-# Building a Network Graph using Microsoft Power BI
+# Data Science - Building a Network Graph using Microsoft Power BI
 This project builds a Network Graph to visualize the sample sales data from the Microsoft AdventureWorks sample database.
 
 # Goals
