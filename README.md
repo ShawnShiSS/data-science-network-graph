@@ -1,5 +1,5 @@
 # Data Science - Building a Network Graph using Microsoft Power BI
-This project builds a Network Graph to visualize the sample sales data from the Microsoft AdventureWorks sample database.
+This project demonstrates how a network graph can be built to visualize relational data in SQL Server using Microsoft Power BI. Sample sales data from the Microsoft AdventureWorks sample database is used.
 
 # Goals
 The goal of this project is to answer some of the most commonly asked questions by executives on the sales data, such as:
